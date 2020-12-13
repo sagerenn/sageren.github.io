@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: Sage
+disqus_username: sage_ren
 
 # Netease settings
 netease_comment: false
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "To be or not to be"
-sidebar-avatar: /img/avatar-Sage-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-sage-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
