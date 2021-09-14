@@ -19,6 +19,8 @@ When I downloaded a scholar paper from a library database, rsc, the pdf file of 
 | ----------------------- | -------------------------------------- | ------------------- |
 | Adobe pdf pro + pitstop | search and replace, batch modification | too heavy           |
 | Foxit PhantomPDF        | search and replace                     | manual modification |
+| LibreOffice Draw        | search and replace                     | poor performance    |
+| PDF Studio       | search and replace                     | poor performance    |
 
 
 ### Open Source
