@@ -28,12 +28,19 @@ Google IP use the anycast
 
 ![origin](https://image.jople.org/2023/09/20230917-6f2652830c5519a49c38eccc9dcb8497.png)
 
+![](https://image.jople.org/2023/09/20230917-177233a257d0c7b82d4c41b6424a2bd2.png)
+
+https://console.cloud.google.com/compute/networkendpointgroups/list
 
 # set rule 
 
 ![](https://image.jople.org/2023/09/20230917-d37115696e0d67d123f9d6160c66d17b.png)
 
 ![](https://image.jople.org/2023/09/20230917-ca41e1b56bf349806a2e8d16c6710757.png)
+
+# reserve a static ip
+
+https://console.cloud.google.com/networking/addresses/list
 
 # create ssl certificate
 
